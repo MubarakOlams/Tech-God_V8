@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923025616121"
-global.ownername = "Hᴀxᴇʀ"
-global.ytname = "YT: MuhammadSalehZubair"
+global.ownernomer = "2348112375304"
+global.ownername = "MubarakTech"
+global.ytname = "YT: Mubarak Olams"
 global.socialm = "GitHub: HAX3R302"
 global.location = "Pakistan, Punjab, Gujranwala"
 
-global.ownernumber = '923025616121'  //creator number
-global.ownername = '⛧-h̵͎̉̌̓̿̿a̶͠x̸͂e̴͊r̶̭̂́̆ ⛧' //owner name
+global.ownernumber = '2348112375304'  //creator number
+global.ownername = 'Mubarak Olams-h̵͎̉̌̓̿̿a̶͠x̸͂e̴͊r̶̭̂́̆ ⛧' //owner name
 global.botname = 'Hᴀxᴇʀ̷̨͚͍́ͅ' //name of the bot
 
 //sticker details
@@ -28,7 +28,7 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
